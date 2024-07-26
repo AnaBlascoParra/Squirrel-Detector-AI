@@ -1,0 +1,4 @@
+train: C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\train.txt  
+val: C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\val.txt      
+nc: 1                     
+names: ['squirrel']       

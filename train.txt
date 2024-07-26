@@ -1,0 +1,9 @@
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img1.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img2.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img3.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img4.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img5.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img6.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img7.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img8.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\img9.jpg

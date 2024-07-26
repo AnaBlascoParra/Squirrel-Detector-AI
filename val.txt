@@ -1,0 +1,6 @@
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\val1.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\val2.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\val3.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\val4.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\val5.jpg
+C:\Users\ana21\Documents\IA\GitHub\SquirrelDetector\images\val6.jpg
